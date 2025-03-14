@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6ALRPKeOfPw=",
+  "dgSpecHash": "uOJGsLt0VDw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MSI\\Desktop\\tekup\\.net\\repos\\cmd\\tp3dotnet\\tp3dotnet.csproj",
+  "projectFilePath": "C:\\Users\\MSI\\Desktop\\tekup\\.net\\repos\\cmd\\TP3_SeedData\\tp3dotnet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MSI\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\MSI\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

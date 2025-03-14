@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MSI\\Desktop\\tekup\\.net\\repos\\cmd\\tp3dotnet\\tp3dotnet.csproj": {}
+    "C:\\Users\\MSI\\Desktop\\tekup\\.net\\repos\\cmd\\TP3_SeedData\\tp3dotnet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MSI\\Desktop\\tekup\\.net\\repos\\cmd\\tp3dotnet\\tp3dotnet.csproj": {
+    "C:\\Users\\MSI\\Desktop\\tekup\\.net\\repos\\cmd\\TP3_SeedData\\tp3dotnet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MSI\\Desktop\\tekup\\.net\\repos\\cmd\\tp3dotnet\\tp3dotnet.csproj",
+        "projectUniqueName": "C:\\Users\\MSI\\Desktop\\tekup\\.net\\repos\\cmd\\TP3_SeedData\\tp3dotnet.csproj",
         "projectName": "tp3dotnet",
-        "projectPath": "C:\\Users\\MSI\\Desktop\\tekup\\.net\\repos\\cmd\\tp3dotnet\\tp3dotnet.csproj",
+        "projectPath": "C:\\Users\\MSI\\Desktop\\tekup\\.net\\repos\\cmd\\TP3_SeedData\\tp3dotnet.csproj",
         "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MSI\\Desktop\\tekup\\.net\\repos\\cmd\\tp3dotnet\\obj\\",
+        "outputPath": "C:\\Users\\MSI\\Desktop\\tekup\\.net\\repos\\cmd\\TP3_SeedData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

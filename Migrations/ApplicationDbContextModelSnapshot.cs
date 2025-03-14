@@ -56,6 +56,18 @@ namespace tp3dotnet.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Genres");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("84ca0bcd-082c-49cb-aa77-ea2f1f5f8285"),
+                            Name = "Action"
+                        },
+                        new
+                        {
+                            Id = new Guid("79e6f638-d7e7-4f63-8365-f172cb925381"),
+                            Name = "Comédie"
+                        });
                 });
 
             modelBuilder.Entity("tp3dotnet.Models.MemberShipType", b =>
